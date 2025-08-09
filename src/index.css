@@ -8,42 +8,42 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 248 250 252;
-    --foreground: 226 232 240;
+    --background: 250 252 255;
+    --foreground: 30 41 59;
 
     --card: 255 255 255;
-    --card-foreground: 51 65 85;
+    --card-foreground: 30 41 59;
 
     --popover: 255 255 255;
     --popover-foreground: 51 65 85;
 
-    --primary: 220 38% 46%;
-    --primary-foreground: 248 250 252;
+    --primary: 219 78% 20%;
+    --primary-foreground: 250 252 255;
     
-    --primary-glow: 220 76% 70%;
-    --primary-soft: 220 38% 92%;
+    --primary-glow: 219 78% 40%;
+    --primary-soft: 219 78% 95%;
 
-    --secondary: 220 13% 91%;
-    --secondary-foreground: 51 65 85;
+    --secondary: 215 25% 96%;
+    --secondary-foreground: 30 41 59;
 
-    --muted: 248 250 252;
+    --muted: 220 14% 96%;
     --muted-foreground: 100 116 139;
 
-    --accent: 220 13% 91%;
-    --accent-foreground: 51 65 85;
+    --accent: 215 25% 96%;
+    --accent-foreground: 30 41 59;
 
     --destructive: 0 72% 51%;
-    --destructive-foreground: 248 250 252;
+    --destructive-foreground: 250 252 255;
     
     --success: 142 71% 45%;
-    --success-foreground: 248 250 252;
+    --success-foreground: 250 252 255;
     
     --warning: 38 92% 50%;
     --warning-foreground: 30 41% 25%;
 
-    --border: 220 13% 91%;
-    --input: 220 13% 91%;
-    --ring: 220 38% 46%;
+    --border: 215 25% 92%;
+    --input: 215 25% 92%;
+    --ring: 219 78% 20%;
     
     /* Project-specific colors */
     --solana: 156 100% 48%;
@@ -52,7 +52,7 @@ All colors MUST be HSL.
     --ethereum-foreground: 30 41% 25%;
     
     /* Status colors */
-    --status-processing: 220 38% 46%;
+    --status-processing: 219 78% 20%;
     --status-success: 142 71% 45%;
     --status-error: 0 72% 51%;
     
