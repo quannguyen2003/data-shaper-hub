@@ -38,8 +38,8 @@ All colors MUST be HSL.
     --success: 142 71% 45%;
     --success-foreground: 250 252 255;
     
-    --warning: 38 92% 50%;
-    --warning-foreground: 30 41% 25%;
+    --warning: 22 100% 55%;
+    --warning-foreground: 250 252 255;
 
     --border: 215 25% 92%;
     --input: 215 25% 92%;
@@ -48,8 +48,8 @@ All colors MUST be HSL.
     /* Project-specific colors */
     --solana: 156 100% 48%;
     --solana-foreground: 248 250 252;
-    --ethereum: 45 93% 58%;
-    --ethereum-foreground: 30 41% 25%;
+    --ethereum: 256 70% 55%;
+    --ethereum-foreground: 250 252 255;
     
     /* Status colors */
     --status-processing: 219 78% 20%;
